@@ -1,0 +1,40 @@
+{
+  "data": {
+    "currentPageItems": 1,
+    "data": [
+      {
+        "bred_for": "Small rodent hunting, lapdog",
+        "breed_group": "Toy",
+        "height": {
+          "imperial": "9 - 11.5",
+          "metric": "23 - 29"
+        },
+        "id": 1,
+        "image": {
+          "height": 1199,
+          "id": "BJa4kxc4X",
+          "url": "https://cdn2.thedogapi.com/images/BJa4kxc4X.jpg",
+          "width": 1600
+        },
+        "life_span": "10 - 12 years",
+        "name": "Affenpinscher",
+        "origin": "Germany, France",
+        "reference_image_id": "BJa4kxc4X",
+        "temperament": "Stubborn, Curious, Playful, Adventurous, Active, Fun-loving",
+        "weight": {
+          "imperial": "6 - 13",
+          "metric": "3 - 6"
+        }
+      }
+    ],
+    "limit": 20,
+    "nextPage": false,
+    "page": 1,
+    "previousPage": false,
+    "totalItems": 1,
+    "totalPages": 1
+  },
+  "message": "Dogs fetched successfully",
+  "statusCode": 200,
+  "success": true
+}
